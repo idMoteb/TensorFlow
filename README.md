@@ -18,5 +18,5 @@ https://www.youtube.com/watch?v=n-zeeRLBgd0
 
 YOU CAN USE VIDEO OR IMAGES 
 
-Note: to read more about this service there is someone on GitHub
+Note: to read more about this service
 https://github.com/idMoteb/teachablemachine-community
